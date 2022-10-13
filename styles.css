@@ -1,0 +1,19 @@
+li{
+    list-style: none;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    background-color: aquamarine;
+    padding: 1em;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color:blue;
+}
