@@ -17,3 +17,15 @@ a{
 a:hover{
     color:blue;
 }
+
+h1{
+    text-align: center;
+    background-color: aqua;
+    padding: 1em;
+    width: 40%;
+    margin:0 auto;
+    display: block;
+    border-radius: 30px;
+    border: solid red 1px;
+}
+
